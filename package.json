@@ -1,0 +1,19 @@
+{
+  "name": "project_snowball",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/mlybrand/project_snowball.svg?branch=master)](https://travis-ci.org/mlybrand/project_snowball)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlybrand/project_snowball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlybrand/project_snowball/issues"
+  },
+  "homepage": "https://github.com/mlybrand/project_snowball#readme"
+}
