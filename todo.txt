@@ -1,0 +1,13 @@
+* Hello World Page using protractor
+
+* set up repo for travis
+* set up repo for dependencies
+* set up repo for dev dependencies
+
+* Find an example test and place it in here
+* make up what I want the grunt command to be to execute the test
+
+* make test pass jshint
+* make test pass style check
+
+* get the test to pass
